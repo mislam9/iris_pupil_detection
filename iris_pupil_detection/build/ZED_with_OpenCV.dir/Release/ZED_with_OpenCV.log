@@ -1,0 +1,15 @@
+﻿cl : Command line warning D9002: ignoring unknown option '-g'
+cl : Command line warning D9002: ignoring unknown option '-O3'
+cl : Command line warning D9002: ignoring unknown option '-std=c++0x'
+  main.cpp
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(143): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(188): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(195): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(237): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(244): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(289): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(296): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Autonomous Lab\Desktop\project files\opencv\zed-opencv-master\src\main.cpp(355): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ZED_with_OpenCV.vcxproj -> C:\Users\Autonomous Lab\Desktop\iris & pupil\iris_pupil_detection\build\Release\IrisPupilDetection.exe
